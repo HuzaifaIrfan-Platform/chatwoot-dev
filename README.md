@@ -1,5 +1,11 @@
 # chatwoot-dev
 
+## Copy .env
+
+```sh
+cp .env.example .env
+```
+
 ## prepare db
 
 ```bash
@@ -16,4 +22,5 @@ docker compose up -d
 
 - http://0.0.0.0:3000/
 
-## First Setup
+## First Setup and Add Test Inbox
+
