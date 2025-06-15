@@ -22,5 +22,6 @@ docker compose up -d
 
 - http://0.0.0.0:3000/
 
-## First Setup and Add Test Inbox
-
+## First Setup and Add Test website Inbox
+- create index.html and website inbox configuration to test inbox
+- open in browser
